@@ -16,3 +16,15 @@ body {
 .book {
   text-align: center;
 }
+
+.link {
+  text-align: center;
+  text-decoration: none;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.download-link {
+  font-size: 28px;
+  color: white;
+}
