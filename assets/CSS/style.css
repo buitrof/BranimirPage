@@ -8,9 +8,21 @@ body {
   margin-top: 40px;
 }
 
+.paragraph-div {
+  margin: 0 auto;
+  margin-top: 15px;
+  text-align: center;
+  width: 900px;
+}
+
+.paragraph {
+  color: white;
+}
+
 .video {
   text-align: center;
   margin-top: 50px;
+  margin-bottom: 30px;
 }
 
 .book {
