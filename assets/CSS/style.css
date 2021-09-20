@@ -62,6 +62,9 @@ body {
   .download-photo {
     max-width: 600px
   }
+  .pdf {
+    max-width: 800px;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -75,6 +78,9 @@ body {
   .download-photo {
     max-width: 450px
   }
+  .pdf {
+    max-width: 600px;
+  }
 }
 
 @media screen and (max-width: 425px) {
@@ -87,5 +93,8 @@ body {
   }
   .download-photo {
     max-width: 300px
+  }
+  .pdf {
+    max-width: 300px;
   }
 }
