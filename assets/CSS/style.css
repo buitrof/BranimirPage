@@ -50,3 +50,42 @@ body {
   color: white;
   margin-top: 15px;
 }
+
+@media screen and (max-width: 1024px) {
+  .paragraph-div {
+    max-width: 750px
+  }
+  .player {
+    max-width: 750px;
+    max-height: 424px;
+  }
+  .download-photo {
+    max-width: 600px
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .paragraph-div {
+    max-width: 550px
+  }
+  .player {
+    max-width: 550px;
+    max-height: 310px;
+  }
+  .download-photo {
+    max-width: 450px
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .paragraph-div {
+    max-width: 325px
+  }
+  .player {
+    max-width: 325px;
+    max-height: 183px;
+  }
+  .download-photo {
+    max-width: 300px
+  }
+}
