@@ -36,6 +36,10 @@ body {
   margin-bottom: 30px;
 }
 
+.download-photo {
+  max-width: 600px
+}
+
 .download-link {
   font-size: 28px;
   color: white;
