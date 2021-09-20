@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(12, 12, 53);
+  background-color: rgb(29, 29, 164);
 }
 
 .title {
@@ -43,4 +43,10 @@ body {
 .download-link {
   font-size: 28px;
   color: white;
+}
+
+.notice {
+  text-align: center;
+  color: white;
+  margin-top: 15px;
 }
